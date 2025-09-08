@@ -8951,7 +8951,7 @@ h1, h2, h3, h4, h5,
 
 .project {
   width: 100%;
-  height: 285px;
+  height: auto;
   margin-bottom: 30px;
   position: relative;
   z-index: 0; }
